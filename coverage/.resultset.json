@@ -1,11 +1,16 @@
 {
   "RSpec": {
     "coverage": {
+<<<<<<< HEAD
       "/Users/tiffanyforsyth/Desktop/devpoint-agile-example-project/spec/models/activity_spec.rb": [
+=======
+      "/Users/doyilee/Desktop/DPL_prep/devpoint-agile-example-project/spec/user_spec.rb": [
+>>>>>>> b60c20b94abd8a14227ca19ffe99b1d3a0019105
         1,
         null,
         1,
         null,
+<<<<<<< HEAD
         2,
         null,
         1,
@@ -25,11 +30,17 @@
         1,
         null,
         1,
+=======
+        1,
+        1,
+        2,
+>>>>>>> b60c20b94abd8a14227ca19ffe99b1d3a0019105
         2,
         null,
         null,
         null,
         1,
+<<<<<<< HEAD
         null,
         1,
         null,
@@ -44,11 +55,20 @@
         null,
         null,
         null,
+=======
+        1,
+        1,
+        0,
+>>>>>>> b60c20b94abd8a14227ca19ffe99b1d3a0019105
         null,
         null,
         null
       ],
+<<<<<<< HEAD
       "/Users/tiffanyforsyth/Desktop/devpoint-agile-example-project/spec/rails_helper.rb": [
+=======
+      "/Users/doyilee/Desktop/DPL_prep/devpoint-agile-example-project/spec/rails_helper.rb": [
+>>>>>>> b60c20b94abd8a14227ca19ffe99b1d3a0019105
         1,
         1,
         null,
@@ -104,14 +124,22 @@
         1,
         null
       ],
+<<<<<<< HEAD
       "/Users/tiffanyforsyth/Desktop/devpoint-agile-example-project/config/environment.rb": [
+=======
+      "/Users/doyilee/Desktop/DPL_prep/devpoint-agile-example-project/config/environment.rb": [
+>>>>>>> b60c20b94abd8a14227ca19ffe99b1d3a0019105
         null,
         1,
         null,
         null,
         1
       ],
+<<<<<<< HEAD
       "/Users/tiffanyforsyth/Desktop/devpoint-agile-example-project/config/application.rb": [
+=======
+      "/Users/doyilee/Desktop/DPL_prep/devpoint-agile-example-project/config/application.rb": [
+>>>>>>> b60c20b94abd8a14227ca19ffe99b1d3a0019105
         1,
         null,
         1,
@@ -139,12 +167,20 @@
         null,
         null
       ],
+<<<<<<< HEAD
       "/Users/tiffanyforsyth/Desktop/devpoint-agile-example-project/config/boot.rb": [
+=======
+      "/Users/doyilee/Desktop/DPL_prep/devpoint-agile-example-project/config/boot.rb": [
+>>>>>>> b60c20b94abd8a14227ca19ffe99b1d3a0019105
         1,
         null,
         1
       ],
+<<<<<<< HEAD
       "/Users/tiffanyforsyth/Desktop/devpoint-agile-example-project/config/environments/test.rb": [
+=======
+      "/Users/doyilee/Desktop/DPL_prep/devpoint-agile-example-project/config/environments/test.rb": [
+>>>>>>> b60c20b94abd8a14227ca19ffe99b1d3a0019105
         1,
         null,
         null,
@@ -188,7 +224,11 @@
         null,
         null
       ],
+<<<<<<< HEAD
       "/Users/tiffanyforsyth/Desktop/devpoint-agile-example-project/config/initializers/assets.rb": [
+=======
+      "/Users/doyilee/Desktop/DPL_prep/devpoint-agile-example-project/config/initializers/assets.rb": [
+>>>>>>> b60c20b94abd8a14227ca19ffe99b1d3a0019105
         null,
         null,
         null,
@@ -201,7 +241,11 @@
         null,
         null
       ],
+<<<<<<< HEAD
       "/Users/tiffanyforsyth/Desktop/devpoint-agile-example-project/config/initializers/backtrace_silencers.rb": [
+=======
+      "/Users/doyilee/Desktop/DPL_prep/devpoint-agile-example-project/config/initializers/backtrace_silencers.rb": [
+>>>>>>> b60c20b94abd8a14227ca19ffe99b1d3a0019105
         null,
         null,
         null,
@@ -210,18 +254,30 @@
         null,
         null
       ],
+<<<<<<< HEAD
       "/Users/tiffanyforsyth/Desktop/devpoint-agile-example-project/config/initializers/cookies_serializer.rb": [
+=======
+      "/Users/doyilee/Desktop/DPL_prep/devpoint-agile-example-project/config/initializers/cookies_serializer.rb": [
+>>>>>>> b60c20b94abd8a14227ca19ffe99b1d3a0019105
         null,
         null,
         1
       ],
+<<<<<<< HEAD
       "/Users/tiffanyforsyth/Desktop/devpoint-agile-example-project/config/initializers/filter_parameter_logging.rb": [
+=======
+      "/Users/doyilee/Desktop/DPL_prep/devpoint-agile-example-project/config/initializers/filter_parameter_logging.rb": [
+>>>>>>> b60c20b94abd8a14227ca19ffe99b1d3a0019105
         null,
         null,
         null,
         1
       ],
+<<<<<<< HEAD
       "/Users/tiffanyforsyth/Desktop/devpoint-agile-example-project/config/initializers/inflections.rb": [
+=======
+      "/Users/doyilee/Desktop/DPL_prep/devpoint-agile-example-project/config/initializers/inflections.rb": [
+>>>>>>> b60c20b94abd8a14227ca19ffe99b1d3a0019105
         null,
         null,
         null,
@@ -239,18 +295,29 @@
         null,
         null
       ],
+<<<<<<< HEAD
       "/Users/tiffanyforsyth/Desktop/devpoint-agile-example-project/config/initializers/mime_types.rb": [
+=======
+      "/Users/doyilee/Desktop/DPL_prep/devpoint-agile-example-project/config/initializers/mime_types.rb": [
+>>>>>>> b60c20b94abd8a14227ca19ffe99b1d3a0019105
         null,
         null,
         null,
         null
       ],
+<<<<<<< HEAD
       "/Users/tiffanyforsyth/Desktop/devpoint-agile-example-project/config/initializers/session_store.rb": [
+=======
+      "/Users/doyilee/Desktop/DPL_prep/devpoint-agile-example-project/config/initializers/session_store.rb": [
+>>>>>>> b60c20b94abd8a14227ca19ffe99b1d3a0019105
         null,
         null,
         1
       ],
+<<<<<<< HEAD
       "/Users/tiffanyforsyth/Desktop/devpoint-agile-example-project/config/initializers/wrap_parameters.rb": [
+=======
+      "/Users/doyilee/Desktop/DPL_prep/devpoint-agile-example-project/config/initializers/wrap_parameters.rb": [
         null,
         null,
         null,
@@ -260,13 +327,49 @@
         1,
         1,
         null,
+>>>>>>> b60c20b94abd8a14227ca19ffe99b1d3a0019105
         null,
         null,
+        null,
+        null,
+<<<<<<< HEAD
+        null,
+        null,
+=======
+        null
+      ],
+      "/Users/doyilee/Desktop/DPL_prep/devpoint-agile-example-project/spec/factories/factory.rb": [
+        1,
+        1,
+        1,
+        null,
+        null,
+        null,
+        1,
+>>>>>>> b60c20b94abd8a14227ca19ffe99b1d3a0019105
+        1,
+        1,
+        null,
+        null,
+<<<<<<< HEAD
+        null,
+=======
+        1,
+        0,
+        null,
+        null,
+        1,
+        2,
+>>>>>>> b60c20b94abd8a14227ca19ffe99b1d3a0019105
         null,
         null,
         null
       ],
+<<<<<<< HEAD
       "/Users/tiffanyforsyth/Desktop/devpoint-agile-example-project/config/routes.rb": [
+=======
+      "/Users/doyilee/Desktop/DPL_prep/devpoint-agile-example-project/config/routes.rb": [
+>>>>>>> b60c20b94abd8a14227ca19ffe99b1d3a0019105
         1,
         null,
         null,
@@ -324,6 +427,7 @@
         null,
         null
       ],
+<<<<<<< HEAD
       "/Users/tiffanyforsyth/Desktop/devpoint-agile-example-project/app/helpers/application_helper.rb": [
         1,
         null
@@ -332,14 +436,58 @@
         1,
         1,
         1,
+=======
+      "/Users/doyilee/Desktop/DPL_prep/devpoint-agile-example-project/app/helpers/application_helper.rb": [
+        1,
+        null
+      ],
+      "/Users/doyilee/Desktop/DPL_prep/devpoint-agile-example-project/app/models/user.rb": [
+        1,
+        1,
+        1,
+        1,
+        null,
+        1,
+        0,
+        null,
+        null,
+        1,
+        0,
+        null,
+>>>>>>> b60c20b94abd8a14227ca19ffe99b1d3a0019105
         null,
         1,
         0,
         null,
         null
       ],
+<<<<<<< HEAD
       "/Users/tiffanyforsyth/Desktop/devpoint-agile-example-project/app/models/destination.rb": [
         1,
+=======
+      "/Users/doyilee/Desktop/DPL_prep/devpoint-agile-example-project/app/models/car.rb": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        null,
+        1,
+        0,
+        null,
+        null,
+        1,
+        0,
+        null,
+        null,
+        1,
+        0,
+        null,
+        null
+      ],
+      "/Users/doyilee/Desktop/DPL_prep/devpoint-agile-example-project/app/models/trip.rb": [
+>>>>>>> b60c20b94abd8a14227ca19ffe99b1d3a0019105
         1,
         1,
         1,
@@ -354,6 +502,10 @@
         null
       ]
     },
+<<<<<<< HEAD
     "timestamp": 1436306459
+=======
+    "timestamp": 1436304395
+>>>>>>> b60c20b94abd8a14227ca19ffe99b1d3a0019105
   }
 }
