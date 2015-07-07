@@ -9,7 +9,7 @@ FactoryGirl.define do
 		"#{n}@example.com"
 	end
 
-	factory :user_with_car, :parent => :user do |user|
+	factory :user_with_cars, :parent => :user do |user|
 		cars {build_list(:car, 3)}
 	end
 end

@@ -11,7 +11,7 @@ class User < ActiveRecord::Base
 		order(:email)
 	end
 
-	def has_bio?
-		!self.bio.nil?
+	def has_about?
+		!self.about.nil?
 	end
 end
