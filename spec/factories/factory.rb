@@ -2,7 +2,7 @@ FactoryGirl.define do
 	factory :user do
 		name "Suzy"
 		email {generate :email}
-		about "This is Suzy."
+		about nil
 	end
 
 	sequence :email do |n|
