@@ -6,7 +6,7 @@ RSpec.describe Activity, type: :model do
 
 	context "validations" do
 	
-		describe "validate name" do
+		describe "check name validation" do
 
 			it 'it has a valid name' do
 				expect(Activity.new(name: 'swimming')).to be_valid
@@ -15,6 +15,13 @@ RSpec.describe Activity, type: :model do
 			it 'does not save without a name' do
 				expect(Activity.new()).to_not be_valid
 			end
+		end
+	end
+
+	context "associations" do
+
+		describe "belongs_to destination" do
+  		it { should belong_to(:destination) }
 		end
 	end
 
@@ -31,6 +38,7 @@ RSpec.describe Activity, type: :model do
 				new_activity = Activity.new(name: 'situps', duration: 10 )
 				expect(new_activity.duration > 60).to be false
 			end
+
   	end
 	end
 end
